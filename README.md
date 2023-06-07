@@ -46,3 +46,6 @@ view
 ```
 $ git log --graph --oneline
 ```
+
+# References
+* [Git MERGE vs REBASE](https://youtu.be/CRlGDDprdOQ?t=337)
